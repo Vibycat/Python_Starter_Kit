@@ -1,0 +1,19 @@
+# Required Libraries for the Project
+
+# Flask for web development
+Flask==2.2.2
+
+# Requests library for HTTP requests
+requests>=2.28.1
+
+# pandas for data manipulation
+pandas==1.5.3
+
+# numpy for numerical computations
+numpy>=1.23.0
+
+# pytest for testing
+pytest==7.2.1
+
+# Gunicorn for running the application
+gunicorn==20.1.0

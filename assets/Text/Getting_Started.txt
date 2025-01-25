@@ -1,0 +1,5 @@
+
+Getting Started with the Python Starter Kit
+
+In this step, you'll learn how to set up your tools and get ready to code.
+Follow the instructions in the upcoming sections to complete your setup.

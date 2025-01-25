@@ -1,0 +1,17 @@
+Lets setup a new python project by using the Setup New Git Project executable file 
+
+This file will automatically launch the command terminal and ask you for a project name. 
+For now, Lets Name the Project Hello World
+
+once you have submitted your project name it will prompt you to open the project in visual studio. 
+
+your choices will be 
+
+1. Open in visual Studio 
+2. Do not open in visual studio 
+3. Exit 
+
+for This Tutorial , lets choose to open in Visual studio. 
+
+Now we are ready to create our first python script!
+

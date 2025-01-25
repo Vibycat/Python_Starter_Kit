@@ -1,0 +1,21 @@
+Learning to use the Project Builder
+
+Start by running the Executable file. 
+
+When the Executable file is run, the terminal will open and prompt the user for a project name. 
+please not that the project name will follow the same rules as creating a new folder on your computer. 
+    this means no special characters
+
+after selecting a new name for your project, the script will ask if you want to generate example files or just the project structure:
+
+Generating the Template files will create example files in the main directories within the project structure. 
+    this is useful when figuring out how to sort and store your files 
+
+Generating the structure only.
+    this will create the Main Project folder and the Subdirectories without any files. 
+        this is useful when starting a project from scratch 
+
+When the project is created the user will be prompted to open the new project in visual studio code. 
+    this option will open the root project directory and all Subdirectories within the project. 
+        this is useful if you do not want to search your file explorer for your new project. 
+

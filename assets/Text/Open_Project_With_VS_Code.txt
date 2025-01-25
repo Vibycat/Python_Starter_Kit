@@ -1,0 +1,5 @@
+
+Opening Your Project with Visual Studio Code
+
+Visual Studio Code is a powerful tool for writing and managing Python scripts.
+We'll show you how to use it to open and edit your Python projects.

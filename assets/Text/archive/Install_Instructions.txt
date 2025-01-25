@@ -1,0 +1,18 @@
+
+Welcome to the Python and Visual Studio Code installer.
+
+To use this script, ensure you run it as an administrator.
+This script will install Python and Visual Studio Code sequentially.
+
+Instructions:
+ If you do not have Python installed, this script will automatically install it for you.
+ If you already have Python installed, the script will skip the Python installation step.
+ Similarly, if you do not have Visual Studio Code installed, the script will install it.
+ If you already have Visual Studio Code installed, the script will skip its installation.
+ If you prefer to install only Python or only Visual Studio Code, separate scripts are available for each:
+   - To install Python only, run "install_python_windows.bat" or "install_python_windows.exe"
+   - To install Visual Studio Code only, run "install_vscode_windows.bat" or "install_vscode_windows.exe"
+
+Enjoy your setup process!
+
+I will play some music once you select an install package. 

@@ -1,0 +1,66 @@
+Welcome to Your First Python Script
+
+As a beginner in Python, writing a Hello World program is an essential first step. This walkthrough will guide you through every step of creating your first Python script. By the end of this exercise, you will have written and executed your own Python program.
+
+What You Will Learn
+1. Setting up your Python environment
+2. Writing your first Python script
+3. Running the script to print Hello World to the console
+
+Step 1: Setting Up Your Environment
+Before writing any code, you need to ensure that Python is installed on your computer.
+
+Check if Python is Installed
+1. Open your terminal, Command Prompt, PowerShell, or Terminal.
+2. Type the following command and press Enter: python --version
+   If Python is installed, you will see a version number.
+
+Install Python if Needed
+1. Go to the official Python website at python.org.
+2. Download the latest version of Python for your operating system.
+3. During installation, check the box that says Add Python to PATH and click Install Now.
+
+Install a Code Editor
+We recommend Visual Studio Code, a beginner-friendly text editor. After installing VS Code, install the Python extension from the Extensions Marketplace.
+
+Step 2: Writing Your First Python Script
+
+Create a New Python File
+1. Open VS Code or any text editor of your choice.
+2. Click File and then New File.
+3. Save the file as hello_world.py. Click File and then Save As. Name the file hello_world.py and select a directory to save it.
+
+Write the Code
+1. In the editor, type the following code: print("Hello, World!")
+
+Explanation
+The print function is a built-in Python function that outputs text to the console. Hello, World! is the string we are printing.
+
+Step 3: Running Your Python Script
+
+Open the Terminal
+In VS Code, press Ctrl and ~ on Windows or Cmd and ~ on Mac to open the terminal.
+
+Run the Script
+1. Navigate to the directory where you saved hello_world.py. Use the cd command: cd path_to_your_file. Replace path_to_your_file with the actual folder path.
+2. Run the script by typing: python hello_world.py
+3. Press Enter. You should see the following output: Hello, World!
+
+Step 4: Celebrate Your Success
+Congratulations, you have written and executed your first Python script. This simple exercise marks the beginning of your programming journey.
+
+Tips for Beginners
+Save Your Work: Always save your script before running it.
+Experiment: Change the text in the print function to see how the output changes.
+Ask Questions: If something does not work, ask your professor or classmates.
+
+Challenge for the Curious
+1. Modify your script to print your name instead of Hello, World.
+2. Add another print statement below the first one that prints a fun fact about you.
+
+Example:
+print("Hello, World!")
+print("My name is Alex, and I love coding!")
+
+By completing this walkthrough, you have taken your first step into the world of programming. Python is a powerful and beginner-friendly language, and there is so much more to explore. Let us keep learning.
+

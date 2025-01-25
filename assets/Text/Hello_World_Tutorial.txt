@@ -1,0 +1,6 @@
+
+Hello World Tutorial
+
+Welcome to your first Python script! 
+You'll write a simple program that prints 'Hello, World!' to the screen.
+This is the first step in learning to code with Python.

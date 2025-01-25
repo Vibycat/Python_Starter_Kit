@@ -1,0 +1,10 @@
+Now that we have Visual studio code installed: 
+
+We will open our How to Python project:
+
+navigate to the File menue and select Open File or press Ctrl + o
+
+select the How To Python project.
+
+Congradulations, you have opened your first visual studio Project. 
+

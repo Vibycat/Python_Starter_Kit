@@ -1,0 +1,16 @@
+Welcome to the How To Python Project:
+
+In this project we will be getting started with python as a programming language: 
+
+There are a few steps we need to take before we create our first project. 
+
+Step 1: We will install python 
+
+Step 2: We will install a Text editor, In this case we will be installing Visual Studio Code 
+
+Step 3: We will use the built in Setup New Git Project .exe file to create our new project 
+
+Step 4: We get to write our first python script. 
+
+Lets get started: 
+

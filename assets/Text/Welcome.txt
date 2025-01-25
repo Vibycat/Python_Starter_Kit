@@ -1,0 +1,6 @@
+
+Welcome to the Python Starter Kit!
+
+This program will guide you through setting up your Python development environment and creating your first Python project.
+
+Let's get started!

@@ -1,0 +1,5 @@
+
+Using the Project Builder
+
+The Project Builder helps you create and organize your Python projects quickly.
+You can use it to set up directories, add example files, and more.

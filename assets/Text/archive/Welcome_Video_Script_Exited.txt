@@ -1,0 +1,78 @@
+
+Hi there, and welcome to the How to Python Starter Kit!,I am excited to walk you through this 
+beginner-friendly project that will help you get started with Python and set up everything you need to begin your coding journey.
+This kit is designed to save you time, guide you step by step, and teach you some important programming concepts along the way.
+
+Let’s take a closer look at the files included in this kit. Here’s a quick overview:
+
+1. The Install_Python_Windows.bat file will install the latest version of python on your computer,
+   	Whether you’re using Windows, macOS, or Linux, we’ve got you covered. Double click on the script to run 
+   	and follow the prompts in the terminal window. 
+
+
+2. Install_VisualStudioCode.py
+	now that you have Python installed on your computer, we are going to install Visual Studio Code.
+	Open a new Terminal on your computer and navigate to the folder that contains the Install_Visual_Studio_Code.py file.
+	To run any python script in the terminal start by typing Python then a single space followed by your filename .py 
+	Congradulations, you have succesfully run your first python code.  
+
+3. Now lets open Visual Studio Code. Once you have the application opened, we can navigate to File, then Open File and open 
+	the How_To_Python project. From here we can see some of the sample files i've included. 
+
+
+3. main_script.py and testing_script.py
+   	These files contain example Python scripts for you to explore. main_script.py introduces basic functionality, while testing_script.py 
+   	lets you experiment and try new things.
+
+4. Welcome_Video.py
+   	This file runs a welcome video, like the one you’re watching now, to make learning interactive and engaging.
+
+5. Documentation Files:  I have included multiple PDF files to help you navigate the various shortcuts in the software you will be using
+   	Command_Line_Shortcut_Keys.pdf 
+     	A handy reference for terminal and command-line shortcuts.
+   	VSCode_Shortcut_Keys.pdf
+     	A guide to navigating Visual Studio Code efficiently.
+    	PowerShell_Shortcut_Keys.pdf
+     	Useful shortcuts for Windows PowerShell users.
+
+6. New_To_Python.md  
+   	This file explains common folders used in Python projects and how to structure your code.
+
+7. src Folder:  
+   	This is where you’ll find multimedia assets, including videos, audio files, and button icons used in the project.
+
+
+Next, let’s talk about the installation script. This script performs three main tasks:
+
+1. Step 1: Install Python 
+   The script automatically downloads and installs the latest version of Python, making sure you’re ready to run any Python code.
+
+2. Step 2: Install Visual Studio Code 
+   It downloads and installs VS Code, the editor we’ll use for all our programming tasks.
+
+3. Step 3: Set Up Your Environment  
+   Finally, the script verifies that everything is set up correctly and gives you the green light to start coding.
+
+Now, let’s run the installation script together. Here’s what you need to do:
+
+1. Open your terminal or PowerShell.
+2. Navigate to the folder where you’ve saved the Starter Kit files.
+3. Run the command:  
+   Install_Python_Windows.bat  # For Windows
+   ./Install_Python_Mac.sh     # For macOS
+   ./Install_Python_Linux.bash # For Linux
+
+The script will begin downloading Python and Visual Studio Code. You’ll see a progress bar as each step completes.
+
+Once the setup is complete, let’s try running some example scripts included in the kit.
+
+- Open main_script.py in VS Code. Click on the green play button in the top-right corner to run the script. This script prints a welcome message to the console.
+- Next, open testing_script.py. This script lets you experiment with Python code. Feel free to edit it and see what happens!
+
+Congratulations! You’ve successfully set up your Python environment. From here, I recommend reading through the New_To_Python.md file,
+which explains how to organize your projects and write your first Python program.
+
+If you have any questions or run into issues, don’t hesitate to reach out. I’ve included my contact information in the documentation, 
+and I’m happy to help.
+
+Thank you for watching this introduction to the How to Python Starter Kit. I hope you enjoy learning Python as much as I do. Let’s get coding!
