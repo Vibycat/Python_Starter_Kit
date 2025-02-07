@@ -1,0 +1,1 @@
+Check sys variable when running install python bat file. it looks like it added vs code to the PATH variable
